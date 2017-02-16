@@ -1,3 +1,9 @@
+gooroom-archive-keyring (20170216+grm) gooroom-1.0; urgency=medium
+
+  * UNRELEASED
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 16 Feb 2017 10:10:37 +0900
+
 gooroom-archive-keyring (20151016+grm1) gooroom-1.0; urgency=medium
 
   * UNRELEASED
