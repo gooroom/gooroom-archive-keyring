@@ -1,10 +1,10 @@
-Source: gooroom-keyring
+Source: gooroom-archive-keyring
 Section: misc
 Priority: optional
 Maintainer: gooroom <gooroom@gooroom.kr>
 Standards-Version: 3.7.3
 
-Package: gooroom-keyring
+Package: gooroom-archive-keyring
 Priority: important
 Architecture: all
 Depends: gnupg (>= 1.0.6-4)
