@@ -30,8 +30,8 @@ binary-indep: checkroot
 	$(install_script) debian/postinst debian/tmp/DEBIAN/
 	$(install_script) debian/prerm debian/tmp/DEBIAN/
 
-	$(install_dir) debian/tmp/usr/share/keyrings/
-	$(install_file) keyrings/gooroom-keyring.gpg debian/tmp/usr/share/keyrings/
+	$(install_dir) debian/tmp/etc/apt/trusted.gpg.d
+	$(install_file) keyrings/gooroom-keyring-1.0.gpg debian/tmp/etc/apt/trusted.gpg.d/
 
 	$(install_dir) debian/tmp/usr/share/doc/gooroom-archive-keyring/
 	$(install_file) debian/changelog debian/tmp/usr/share/doc/gooroom-archive-keyring/changelog
@@ -45,7 +45,7 @@ binary-indep: checkroot
 binary-arch:
 
 define checkdir
-	test -f keyrings/gooroom-keyring.gpg
+	test -f keyrings/gooroom-keyring-1.0.gpg
 endef
 
 # Below here is fairly generic really
