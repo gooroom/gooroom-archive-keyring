@@ -1,3 +1,12 @@
+gooroom-archive-keyring (20170517+grm) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [2ac7c4db] Update gooroom-archive-keyring-1.0.gpg to Gooroom 1.0 base
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Wed, 17 May 2017 11:56:23 +0900
+
 gooroom-archive-keyring (20170216+grm) gooroom-1.0; urgency=medium
 
   * UNRELEASED
