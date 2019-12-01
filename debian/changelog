@@ -1,32 +1,5 @@
-gooroom-archive-keyring (20191129+grm2) unstable; urgency=medium
+gooroom-archive-keyring (20191129+grm2u1) unstable; urgency=medium
 
   * Releaed Gooroom-2.0
 
- -- gooroom <gooroom@gooroom.kr>  Sun, 01 Dec 2019 16:44:45 +0900
-
-gooroom-archive-keyring (20170517+grm) gooroom-1.0; urgency=medium
-
-  [ jongkyung.woo ]
-  * [2ac7c4db] Update gooroom-archive-keyring-1.0.gpg to Gooroom 1.0 base
-
-  [ Gooroom Autobuilder ]
-
- -- Gooroom Autobuilder <jenkins@gooroom.kr>  Wed, 17 May 2017 11:56:23 +0900
-
-gooroom-archive-keyring (20170216+grm) gooroom-1.0; urgency=medium
-
-  * UNRELEASED
-
- -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 16 Feb 2017 10:10:37 +0900
-
-gooroom-archive-keyring (20151016+grm1) gooroom-1.0; urgency=medium
-
-  * UNRELEASED
-
- -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 13 May 2016 04:01:20 +0900
-
-gooroom-archive-keyring (20151016) gooroom-1.0; urgency=low
-
-  * Initial release.
-
- -- gooroom <gooroom@gooroom.kr>  Fri, 16 Oct 2015 09:49:00 +0900
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sun, 01 Dec 2019 16:47:45 +0900
