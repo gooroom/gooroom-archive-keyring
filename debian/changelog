@@ -1,3 +1,9 @@
+gooroom-archive-keyring (20191129+grm2) unstable; urgency=medium
+
+  * Releaed Gooroom-2.0
+
+ -- gooroom <gooroom@gooroom.kr>  Sun, 01 Dec 2019 16:44:45 +0900
+
 gooroom-archive-keyring (20170517+grm) gooroom-1.0; urgency=medium
 
   [ jongkyung.woo ]
