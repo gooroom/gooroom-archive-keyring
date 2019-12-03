@@ -1,0 +1,16 @@
+Source: gooroom-archive-keyring
+Priority: important
+Section: misc
+Maintainer: gooroom <gooroom@gooroom.kr>
+Build-Depends: debhelper (>=7)
+Standards-Version: 3.9.3
+
+Package: gooroom-archive-keyring
+Priority: important
+Architecture: all
+Depends: gpgv, ${mise:Depends}
+Recommends: gnupg
+Breaks: apt (<< 0.7.25.1)
+Description: GnuPG key of the gooroom repository
+ The gooroom repository digitally signs its Release files. This package
+ contains the repository key used for that.
