@@ -11,3 +11,5 @@ override_dh_auto_install:
                        $$(pwd)/debian/gooroom-archive-keyring/etc/apt/trusted.gpg.d/gooroom-archive-1.0.gpg
 	install -D -m 0644 keyrings/gooroom-archive-2.0.gpg \
                        $$(pwd)/debian/gooroom-archive-keyring/etc/apt/trusted.gpg.d/gooroom-archive-2.0.gpg
+	install -D -m 0644 keyrings/gooroom-archive-3.0.gpg \
+                       $$(pwd)/debian/gooroom-archive-keyring/etc/apt/trusted.gpg.d/gooroom-archive-3.0.gpg
