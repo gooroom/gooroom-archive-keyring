@@ -1,3 +1,10 @@
+gooroom-archive-keyring (20201012+grm3u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [5db05e7e] Added gooroom-archive-3.0.gpg
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 12 Oct 2020 16:50:07 +0900
+
 gooroom-archive-keyring (20191129+grm2u1) unstable; urgency=medium
 
   * Releaed Gooroom-2.0
